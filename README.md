@@ -1,2 +1,1 @@
-# DominykasV
-egzamino failai
+# Dominykas Viškelis
